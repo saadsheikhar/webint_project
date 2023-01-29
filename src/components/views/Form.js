@@ -49,7 +49,7 @@ const Test = () => {
                   rippleColor="primary"
                   size="lg"
                   tag="a"
-                  href="http://localhost:3000/help"
+                  href="/help"
                 >
                   How to use
                 </MDBBtn>
@@ -58,7 +58,7 @@ const Test = () => {
               <MDBCol md="5">
                 <div>
                   <img
-                    src="http://localhost:3000/form_img2.svg"
+                    src="/form_img2.svg"
                     alt="form-top-image"
                     className="form-top-image"
                   />
@@ -95,7 +95,7 @@ const Test = () => {
                     rippleColor="primary"
                     size="lg"
                     tag="a"
-                    href="http://localhost:3000/result"
+                    href="/result"
                   >
                     I am feeling lucky
                   </MDBBtn>
@@ -159,7 +159,7 @@ const Test = () => {
                       <MDBCardBody className="p-2">
                         <MDBCardHeader tag="h5">
                           <img
-                            src="http://localhost:3000/undraw_heart.svg"
+                            src="/undraw_heart.svg"
                             className="heart-img"
                             alt="hearttips"
                           />{" "}
@@ -233,7 +233,7 @@ const Test = () => {
                       <MDBCardBody className="p-2">
                         <MDBCardHeader tag="h5">
                           <img
-                            src="http://localhost:3000/undraw_heart.svg"
+                            src="/undraw_heart.svg"
                             className="heart-img"
                             alt="hearttips"
                           />{" "}
@@ -310,7 +310,7 @@ const Test = () => {
                                           size="sm"
                                           className="ms-2"
                                           tag="a"
-                                          href="http://localhost:3000/help"
+                                          href="/help"
                                         >
                                           Learn more
                                         </MDBBtn>
@@ -348,7 +348,7 @@ const Test = () => {
                         <MDBCardHeader tag="h5">
                           {" "}
                           <img
-                            src="http://localhost:3000/undraw_heart.svg"
+                            src="/undraw_heart.svg"
                             className="heart-img"
                             alt="hearttips"
                           />{" "}
@@ -432,7 +432,7 @@ const Test = () => {
                         <MDBCardHeader tag="h5">
                           {" "}
                           <img
-                            src="http://localhost:3000/undraw_heart.svg"
+                            src="/undraw_heart.svg"
                             className="heart-img"
                             alt="hearttips"
                           />{" "}
@@ -458,7 +458,7 @@ const Test = () => {
               rippleColor="primary"
               size="lg"
               tag="a"
-              href="http://localhost:3000/result"
+              href="/result"
             >
               Last step to make it!
             </MDBBtn>

@@ -61,7 +61,7 @@ export default function App() {
               <h6 className="text-uppercase fw-bold mb-4">Ueful links</h6>
               <p>
                 <a
-                  href="https://github.com/elgharmaoui/DreamTeamRepo"
+                  href="https://github.com/saadsheikhar/webint_project"
                   className="text-reset"
                 >
                   Github

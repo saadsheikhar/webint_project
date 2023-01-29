@@ -187,7 +187,7 @@ const Help = () => {
             </MDBCol>
             <MDBCol md="6">
               <img
-                src="http://localhost:3000/feedback.svg"
+                src="/feedback.svg"
                 alt="feedback-image"
                 width="700"
                 height="393"

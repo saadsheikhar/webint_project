@@ -36,7 +36,7 @@ function Custom() {
       <div
         className="p-2 text-center bg-image"
         style={{
-          backgroundImage: "url('http://localhost:3000/good_smile.jpeg')",
+          backgroundImage: "url('/good_smile.jpeg')",
           height: 700,
           maxWidth: 3000,
         }}
@@ -172,7 +172,7 @@ function Custom() {
               className="w-100 d-block"
               itemID={1}
               style={{ height: 630 }}
-              src="http://localhost:3000/thinking2.jpg"
+              src="/thinking2.jpg"
               alt="..."
             >
               <h4>
@@ -192,7 +192,7 @@ function Custom() {
               className="w-100 d-block"
               itemID={1}
               style={{ height: 630 }}
-              src="http://localhost:3000/old1.jpeg"
+              src="/old1.jpeg"
               alt="..."
             >
               <h4>
@@ -212,7 +212,7 @@ function Custom() {
               className="w-100 d-block"
               itemID={1}
               style={{ height: 630 }}
-              src="http://localhost:3000/jump2.jpg"
+              src="/jump2.jpg"
               alt="..."
             >
               <h4>
@@ -269,7 +269,7 @@ function Custom() {
           <MDBCol size="6">
             <div className="mx-4 my-4 text-white">
               <img
-                src="http://localhost:3000/learn1.jpg"
+                src="/learn1.jpg"
                 className="img-fluid hover-shadow rounded"
                 alt=""
               />
@@ -291,7 +291,7 @@ function Custom() {
         <MDBCardGroup>
           <MDBCard>
             <MDBCardImage
-              src="http://localhost:3000/save.jpg"
+              src="/save.jpg"
               alt="..."
               position="top"
               onMouseEnter={() => setShowDescription1(true)}
@@ -338,7 +338,7 @@ function Custom() {
 
           <MDBCard>
             <MDBCardImage
-              src="http://localhost:3000/templates.jpg"
+              src="/templates.jpg"
               alt="..."
               position="top"
               onMouseEnter={() => setShowDescription2(true)}
@@ -384,7 +384,7 @@ function Custom() {
 
           <MDBCard>
             <MDBCardImage
-              src="http://localhost:3000/assistance.jpg"
+              src="/assistance.jpg"
               alt="..."
               position="top"
               onMouseEnter={() => {
@@ -446,7 +446,7 @@ function Custom() {
                   <MDBCol>
                     <div className="text-white">
                       <img
-                        src="http://localhost:3000/premium.jpg"
+                        src="/premium.jpg"
                         className="img-fluid hover-shadow rounded"
                         alt=""
                       />

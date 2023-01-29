@@ -51,7 +51,7 @@ function UserProfile() {
                   className="ms-2"
                   onClick={toggleShowBottom}
                   tag="a"
-                  href="http://localhost:3000/some_file.txt"
+                  href="/some_file.txt"
                   download
                 >
                   Yes I authorize you
@@ -81,7 +81,7 @@ function UserProfile() {
                 <MDBCol>
                   <div className="text-white">
                     <img
-                      src="http://localhost:3000/premium.jpg"
+                      src="/premium.jpg"
                       className="img-fluid hover-shadow rounded"
                       alt=""
                     />
