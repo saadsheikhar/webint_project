@@ -20,7 +20,7 @@ export default function Navbar({ updateSidenav, sidenavState }) {
       <MDBContainer fluid>
         <MDBNavbarBrand href="/">
           <img
-            src="http://localhost:3000/logo.jpeg"
+            src="/logo.jpeg"
             height="60"
             alt=""
             loading="lazy"
