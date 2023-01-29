@@ -1,0 +1,5 @@
+.accordion-button {font-weight: bold;}
+.bg{
+    background-image: linear-gradient(180deg, rgba(55,136,219,0.3), rgba(47,96, 181, 0.3) 50%);
+    width: 100%;
+}

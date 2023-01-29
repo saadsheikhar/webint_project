@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&display=swap');
+
+
+ul.navbar-nav.w-100 {
+  width: auto !important;
+}
+
+
+body {
+  background-color: #fbfbfb;
+}
+
+main {
+  margin-top: 58px;
+  font-family: 'Montserrat';
+}
+
+.file-upload-wrapper {
+  max-width: 300px !important;
+}
+
+section.inner-sidenav > div {
+  z-index: 999 !important;
+}
+
+
+.bgcol{
+  background-image: linear-gradient(180deg,rgba(55, 136, 219, 0.3),rgba(47, 96, 181, 0.3) 50%);
+  width: 100%;
+}
+
+.form-first-part{
+  padding-top: 8rem;
+  padding-bottom: 6rem;
+}
+
+.head-title{
+  margin-top: 2rem;
+  font-size: 3.2rem;
+  line-height: 120%;
+  font-weight: 400;
+  padding-bottom: 2rem;
+}
+
+.res-head-title{
+  margin-top: 7rem;
+  font-size: 3.2rem;
+  line-height: 120%;
+  font-weight: 400;
+  padding-bottom: 2rem;
+}
+
+.res-temp-title{
+  margin-top: 2rem;
+  font-size: 3rem;
+  line-height: 120%;
+  font-weight: 400;
+  padding-bottom: 2rem;
+}
+
+
+.emphasecolor{
+  color: rgba(55, 136, 219);
+}
+
+.sub-head-title{
+  font-size: 1rem;
+  font-weight: 400;
+  padding-bottom: 1rem;
+}
+
+.form-begin{
+  padding-top: 3rem;
+}
+
+.form-head-title{
+  text-align: center;
+  font-weight: 400;
+  padding-bottom: 2em;
+}
+
+.form-choice{
+  padding-bottom: 5rem;
+}
+
+.question1{
+  padding-top: 9em;
+  padding-bottom: 9em;
+  background-color:#DFDBFF;
+  border-radius: 1.25rem;
+}
+
+.question2{
+  padding-top: 9em;
+  padding-bottom: 9em;
+  background-color:#DBF9FF;
+  border-radius: 1.25rem;
+}
+
+.question3{
+  padding-top: 9em;
+  padding-bottom: 9em;
+  background-color:#D8FFEC;
+  border-radius: 1.25rem;
+}
+
+.question4{
+  padding-top: 9em;
+  padding-bottom: 9em;
+  background-color:#FFFFDB;
+  border-radius: 1.25rem;
+}
+
+.question-card{
+  margin-left: 2rem;
+}
+.question-help{
+
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.bg-col-res{
+  background-color: #f0f1f7;
+}
+
+.form-top-image{
+  width: 600px;
+  height: auto;
+}
+
+.heart-img{
+  width: 15px;
+  height: auto;
+}
