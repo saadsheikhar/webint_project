@@ -175,7 +175,7 @@ function UserProfile() {
 
                   <MDBInput
                     className="mb-4"
-                    label="Name"
+                    label="Username"
                     defaultValue="Founder"
                   />
 
