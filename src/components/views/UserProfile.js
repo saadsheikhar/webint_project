@@ -209,6 +209,7 @@ function UserProfile() {
                     color="primary"
                     size="lg"
                     className="my-3"
+                    onClick={toggleShow}
                   >
                     {" "}
                     UPDATE PREMIUM{" "}
