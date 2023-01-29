@@ -192,7 +192,7 @@ const Result = () => {
                                                         <div className='d-flex justify-content-center align-items-center my-3'>
                                                             <p className='mb-0'>Do you authorize download from our website ?</p>
                                                             <MDBBtn color='success' size='sm' className='ms-2' onClick={toggleShow2}
-                                                                    tag="a" href="http://localhost:3000/some_file.txt" download>
+                                                                    tag="a" href="/some_file.txt" download>
                                                                 Yes I authorize you
                                                             </MDBBtn>
                                                             <MDBBtn size='sm' className='ms-2' onClick={toggleShow2}>
