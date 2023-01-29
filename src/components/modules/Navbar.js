@@ -35,7 +35,7 @@ export default function Navbar({ updateSidenav, sidenavState }) {
         </MDBBtn>
         <MDBNavbarNav className="ms-auto d-flex flex-row">
           <MDBNavbarItem className="active">
-            <MDBNavbarLink aria-current="page" href="http://localhost:3000">
+            <MDBNavbarLink aria-current="page" href="/">
               Home
             </MDBNavbarLink>
           </MDBNavbarItem>
@@ -105,12 +105,12 @@ export default function Navbar({ updateSidenav, sidenavState }) {
                 />
               </MDBDropdownToggle>
               <MDBDropdownMenu style={{ zIndex: 1060 }}>
-                <MDBDropdownItem link href="http://localhost:3000/user-profile">
+                <MDBDropdownItem link href="/user-profile">
                   My profile
                 </MDBDropdownItem>
                 <MDBDropdownItem
                   link
-                  href="http://localhost:3000/login-register"
+                  href="/login-register"
                 >
                   Logout
                 </MDBDropdownItem>
